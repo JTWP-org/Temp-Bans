@@ -1,5 +1,5 @@
 # THE PYTHON SECTION OF THE BOT 
-# my phton is still veryy limited and im just learning it 
+# my python is still verylimited and im just learning it 
 
 
 #TOP CMD IS TO EXPLANE USE (its not super user friendly )
